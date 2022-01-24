@@ -13,6 +13,7 @@ ABSTRACT
 The main aim of this project is to create an appropriate machine learning model to forecast then number of orders to gather raw materials for next ten weeks. To achieve this, we should know the information about of fulfilment center like area, city etc., and meal information like category of food sub category of food price of the food or discount in particular week. By using this data, we can use any classification algorithm to forecast the quantity for 10 weeks. A web application is built which is integrated with the model built.
 
 The main idea of solving the problem is to identify the trends in the data collected and and analyse to forecast the demand. i.e using ibm machine learning services i have deployed a model using python.
+![image6](https://user-images.githubusercontent.com/85010501/150748418-2ff0e02c-835b-4f36-b969-0edf9756212a.png)
 
 
 
@@ -25,11 +26,16 @@ SOFTWARE AND WEB TECHNOLOGIES USED IN PROJECT -
 	Code Editor       :   Visual Studio Code
 
   IBM cloud Services      :  Ibm Watson studio,Machine Learning,Ibm cloud storage
+  
 PROJECT LINK (GITHUB REPOSITORY URL) : https://github.com/smartinternz02/SBSPS-Challenge-8723-Food-Demand-Forecasting-for-Food-Delivery-Company-using-IBM-Cloud
+
 Steps to run the Project:
 
 ->Open command prompt
 ->Set path to project directory 
 ->Run the command: python app.py 
 ->Now web application opens in default browser
+
+![Screenshot (27)](https://user-images.githubusercontent.com/85010501/150748362-620b74a7-cce5-447c-9c19-bbeb77023b59.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/85010501/150748522-b535bebb-6a69-4c5e-ae2b-e0307cfd7500.png)
 
